@@ -17,3 +17,12 @@ h1 {
     background-color: black;
     text-shadow: firebrick;
 }
+.button {
+    background-color: blue;
+    padding-left: 1230px;
+}
+.list {
+    scroll-padding-top: 30px;
+    color: red;
+    transform: translateX(-600px);
+}
